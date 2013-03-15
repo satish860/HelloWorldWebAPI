@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWebAPI", "HelloWorldWebAPI\HelloWorldWebAPI.csproj", "{8951F874-B0EC-492B-9A9B-8474DA8BEDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi.AcceptanceTest", "TodoApi.AcceptanceTest\TodoApi.AcceptanceTest.csproj", "{781B7046-CBE7-45DB-95E7-CC90AA523319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi.UnitTest", "TodoApi.UnitTest\TodoApi.UnitTest.csproj", "{B84D9B49-1715-45EF-8F81-9CA0CE9212F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8951F874-B0EC-492B-9A9B-8474DA8BEDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8951F874-B0EC-492B-9A9B-8474DA8BEDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8951F874-B0EC-492B-9A9B-8474DA8BEDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8951F874-B0EC-492B-9A9B-8474DA8BEDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781B7046-CBE7-45DB-95E7-CC90AA523319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781B7046-CBE7-45DB-95E7-CC90AA523319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781B7046-CBE7-45DB-95E7-CC90AA523319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781B7046-CBE7-45DB-95E7-CC90AA523319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84D9B49-1715-45EF-8F81-9CA0CE9212F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84D9B49-1715-45EF-8F81-9CA0CE9212F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84D9B49-1715-45EF-8F81-9CA0CE9212F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84D9B49-1715-45EF-8F81-9CA0CE9212F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
